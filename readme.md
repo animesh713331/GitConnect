@@ -55,5 +55,3 @@ Add pagination or infinite scrolling
 MIT License
 
 💻 Developed by Animesh Kumar Singh
-
-Replace `https://github.com/animesh713331/GitConnect.git` and `Animesh Kumar Singh` with your actual GitHub repository
