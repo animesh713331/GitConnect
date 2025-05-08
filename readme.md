@@ -1,4 +1,4 @@
-# GitHub Profile Finder 🔍
+# GitConnect - GitHub Profile Finder 🔍
 
 A React + Parcel web app that lets you search GitHub profiles by username or generate a list of random profiles. Includes dark mode, error handling, animations, and localStorage support.
 
