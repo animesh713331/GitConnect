@@ -11,7 +11,7 @@ A React + Parcel web app that lets you search GitHub profiles by username or gen
 - ⚠️ Error handling with user feedback
 - 💾 Persists theme preference
 
-## 🚀 Live Demo on Netlify : [text](https://gitconnect-animesh09.netlify.app/)
+## 🚀 Live Demo on Netlify : https://gitconnect-animesh09.netlify.app/
 
 ### 1. Clone and Install
 
